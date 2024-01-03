@@ -28,7 +28,7 @@
 
 
 ### Installations
-- git clone https://github.com/hereshem/django-ecommerce
+- git clone https://github.com/IskaSoft/Ecommerce-website-Django
 - cd django-ecommerce
 - pip install -r requirements.txt
 - python manage.py migrate
